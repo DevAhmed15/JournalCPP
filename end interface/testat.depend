@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1416665005 source:e:\testat\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<conio.h>
+
+1418788030 source:f:\learn\level 2\2-1\pl2\project\taslem\end interface\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	<process.h>
+
+1418820432 source:d:\work\fcih\level 2\2-1\pl2\project\taslem\end interface\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	<process.h>
+

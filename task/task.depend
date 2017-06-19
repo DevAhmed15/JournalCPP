@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1416660741 source:d:\task\main.cpp
+	<iostream>
+	"reviewer.h"
+
+1416660798 d:\task\reviewer.h
+

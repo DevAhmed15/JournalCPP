@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1416665785 source:c:\users\ahmed elmeshtawy\desktop\ahmed elmeshtawy\reviewer\main.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<ostream>
+	"reviewer.h"
+
+1416665785 c:\users\ahmed elmeshtawy\desktop\ahmed elmeshtawy\reviewer\reviewer.h
+	<iostream>
+	<string>
+
